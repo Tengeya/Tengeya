@@ -20,7 +20,7 @@ I'm a passionate and curious **Software Development student** based in Kenya �
 - 🗂️ Portfolio (coming soon...)
 
 ### ⚡ Fun Fact
-I thrive in creative chaos, love clean UIs, and believe that a great playlist makes for better coding sessions 🎧
+I thrive in creative chaos, love clean UIs, and believe that a great playlist makes for better coding sessions fr🎧
 
 ---
 
