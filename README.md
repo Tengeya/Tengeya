@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there 👋 I'm Pauline Tengeya!
 
-<!--
-**Tengeya/Tengeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and curious **Software Development student** based in Kenya 🇰🇪, currently working toward becoming a Front-End Web Developer
+### 🚀 What I'm Up To
+- 🌱 Currently learning: **React**, **TailwindCSS**, and **RESTful APIs**
+- 💻 Exploring: **Next.js**, **TypeScript**, and **Laravel** (for my app project!)
+- 🎓 Proud member of the **GitHub Student Developer Pack** program
+- 🔧 Just completed: Learning Path for APIs
+- 🧠 Constantly improving my skills through **Microsoft Learn** 
 
-Here are some ideas to get you started:
+### 🔍 I'm Interested In:
+- 👩‍💻 Front-End Web Development
+- 🌐 Open Source Contributions
+- 🤝 Remote Tech Internships
+- 🧪 Building cool side projects and learning by doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let’s Connect
+- 📫 Email: [kemytengeya@gmail.com](mailto:kemytengeya@gmail.com)
+- 🌐 LinkedIn: [Pauline Tengeya](https://www.linkedin.com/in/pauline-tengeya)
+- 🗂️ Portfolio (coming soon...)
+
+### ⚡ Fun Fact
+I thrive in creative chaos, love clean UIs, and believe that a great playlist makes for better coding sessions 🎧
+
+---
+
+🛠️ *Currently crafting my dev story, one line of code at a time...*
